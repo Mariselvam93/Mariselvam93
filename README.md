@@ -6,7 +6,7 @@
 - Develop scalable **.NET 8** APIs, **GraphQL** endpoints, and microservices.  
 - Create intuitive frontend applications using **Blazor**, **React.js**, **.NET MAUI**, and **WPF**.  
 - Design efficient database solutions with **SQL Server**, **PostgreSQL**, and **MongoDB**.  
-- Enhance application performance and deployment efficiency using **Azure DevOps**, **AWS EKS**, and container orchestration tools like **Kubernetes** , **Docker** and **Helm Charts**."
+- Enhance application performance and deployment efficiency using **Azure DevOps**, **AWS EKS**, and container orchestration tools like **Kubernetes** , **Docker** and **Helm Charts**.
 
 ## 🔧 Tech I'm Passionate About  
 - **Cloud Services:** AWS , Azure
