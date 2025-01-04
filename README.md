@@ -3,7 +3,7 @@
 🎯 **Senior Software Engineer** with 10 + years of expertise in designing, building, and optimizing full-stack solutions. I specialize in **Microsoft Technologies**, cloud-native development, and modern web application frameworks.  
 
 ## 💼 What I Do  
-- Develop scalable **.NET 8** APIs, **GraphQL** endpoints, and microservices.  
+- Develop scalable **.NET 8** APIs, **GraphQL** endpoints, and Microservices.  
 - Create intuitive frontend applications using **Blazor**, **React.js**, **.NET MAUI**, and **WPF**.  
 - Design efficient database solutions with **SQL Server**, **PostgreSQL**, and **MongoDB**.  
 - Enhance application performance and deployment efficiency using **Azure DevOps**, **AWS EKS**, and container orchestration tools like **Kubernetes** , **Docker** and **Helm Charts**.
